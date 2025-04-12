@@ -12,16 +12,16 @@ Statické stránky sú najjednoduchší typ webu. Neobsahujú žiadny backend an
 ## Proces
 
 1. 🎨 Design
-   1. Wireframe
-   2. Design system
-   3. UI/UX
+   - Wireframe
+   - Design system
+   - UI/UX
 2. 💻 Code
-   1. HTML, CSS, JS
-   2. React, Vue
+   - HTML, CSS, JS
+   - React, Vue
 3. 🚀 Deploy
-   1. Git Repository
-   2. Github
-   3. GitHub Pages
+   - Git Repository
+   - Github
+   - GitHub Pages
 
 ## Dynamické stránky - Backend
 
